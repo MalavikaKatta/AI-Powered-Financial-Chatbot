@@ -2,7 +2,7 @@
 
 ## Dataset
 
-The dataset was created using 10,000 documents from Microsoft, Apple, and Tesla. It includes financial data for three fiscal years, covering the following metrics:
+The dataset was created using 10-K documents from Microsoft, Apple, and Tesla. It includes financial data for three fiscal years, covering the following metrics:
 
 <img src="https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTg2ODU3NDU5MjEyNjI1ODA4/big-tech-tesla-microsft-apple.jpg" width="500" height="300">
 
